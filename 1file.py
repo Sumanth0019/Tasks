@@ -1,1 +1,4 @@
-print("Hello Git was updated")
+def main():
+    print("Base Project")
+
+main()
