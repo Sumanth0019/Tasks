@@ -1,4 +1,4 @@
-def main():
-    print("Base Project")
+def is_even(n):
+    return n % 2 == 0
 
-main()
+print("Is 4 even?", is_even(4))
