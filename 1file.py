@@ -1,4 +1,4 @@
-def main():
-    print("Base Project")
+def is_odd(n):
+    return n % 2 != 0
 
-main()
+print("Is 5 odd?", is_odd(5))
