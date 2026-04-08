@@ -1,0 +1,3 @@
+Hello World
+This is a diff example modified
+Python is awesome
